@@ -1,0 +1,1 @@
+{"version": [{"major": 2, "minor": 0, "bug": 1, "changelog": "Major: None Minor: None Bug: ['tester2']"}, {"major": 2, "minor": 0, "bug": 0, "changelog": "Major: ['tester2'] Minor: None Bug: None"}, {"major": 1, "minor": 0, "bug": 0, "changelog": "Major: ['tester2'] Minor: None Bug: None"}]}

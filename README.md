@@ -1,6 +1,9 @@
 # python_git_versioning
 Handles pushing directly to the main branch with arguments to handle versioning. 
 
+Install python requirements through pip, just put this command in the terminal once you installed pip and python
+*pip install -r requirements.txt*
+
 ## MAJOR is incremented when:
     Significant changes occur to the product, or a new product direction.
     Breaking changes were taken. There's a high bar to accepting breaking changes.
